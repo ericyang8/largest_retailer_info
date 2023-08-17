@@ -1,0 +1,101 @@
+,rank,name,hq_location,sale_growth,retail_sale,us_%_of_world_sale,store_count,store_growth
+0,1,Walmart,"Bentonville, AR",7.80%,$499.65 ,83%,"5,330",0.10%
+1,2,Amazon.com,"Seattle, WA",6.70%,$232.46 ,68%,558,0.20%
+2,3,Costco Wholesale,"Issaquah, WA",16.90%,$164.15 ,75%,574,2.50%
+3,4,The Kroger Co.,"Cincinnati, OH",7.50%,$147.62 ,100%,"2,856",-0.50%
+4,5,The Home Depot,"Atlanta, GA",4.30%,$145.94 ,94%,"1,994",0.10%
+5,6,Target,"Minneapolis, MN",2.80%,$107.59 ,100%,"1,948",1.10%
+6,7,CVS Health Corporation,"Woonsocket, RI",6.50%,$106.18 ,100%,"9,728",-2.70%
+7,8,Walgreens Boots Alliance,"Deerfield, IL",-2.70%,$103.91 ,89%,"8,785",-0.90%
+8,9,Lowe's Companies,"Mooresville, NC",1.80%,$89.28 ,95%,"1,738",0.10%
+9,10,Albertsons Companies,"Boise, ID",6.00%,$76.15 ,100%,"2,270",-1.20%
+10,11,Apple Stores / iTunes,"Cupertino, CA",9.00%,$70.64 ,88%,272,0.00%
+11,12,Royal Ahold Delhaize USA,"Carlisle, PA",6.70%,$57.21 ,62%,"2,059",0.00%
+12,13,Publix Super Markets,"Lakeland, FL",13.60%,$54.53 ,100%,"1,627",1.80%
+13,14,Best Buy,"Richfield, MN",-10.60%,$42.75 ,93%,943,-1.50%
+14,15,Aldi,"Batavia, IL",8.10%,$40.21 ,32%,"2,813",4.30%
+15,16,TJX Companies,"Framingham, MA",0.90%,$38.42 ,79%,"3,465",3.60%
+16,17,Dollar General,"Goodlettsville, TN",10.60%,$37.87 ,100%,"19,503",6.10%
+17,18,H.E. Butt Grocery,"San Antonio, TX",12.20%,$34.79 ,95%,346,0.30%
+18,19,7-Eleven,"Irving, TX",30.20%,$30.15 ,35%,"12,645",-0.10%
+19,20,Dollar Tree,"Chesapeake, VA",7.50%,$27.91 ,98%,"16,090",1.60%
+20,21,Ace Hardware,"Oak Brook, IL",7.50%,$26.38 ,96%,"4,867",2.40%
+21,22,Macy's,"New York, NY",-0.10%,$24.25 ,100%,726,-0.80%
+22,23,Verizon Wireless,"New York, NY",17.70%,$23.17 ,100%,"6,087",-2.10%
+23,24,AT&T Wireless,"Dallas, TX",3.00%,$21.28 ,100%,"1,450",-8.20%
+24,25,Meijer,"Grand Rapids, MI",5.50%,$21.18 ,100%,262,0.80%
+25,26,BJ's Wholesale Club,"Marlborough, MA",22.90%,$20.49 ,100%,237,4.90%
+26,27,Ross Stores,"Dublin, CA",-1.20%,$18.67 ,100%,"2,012",4.70%
+27,28,Wakefern / ShopRite,"Keasbey, NJ",4.60%,$18.60 ,100%,371,2.80%
+28,29,Rite Aid,"Camp Hill, PA",1.10%,$17.57 ,100%,"2,309",-5.80%
+29,30,Kohl's,"Menomonee Falls, WI",-7.10%,$17.19 ,100%,"1,182",0.40%
+30,31,Nordstrom,"Seattle, WA",3.50%,$14.35 ,95%,344,0.30%
+31,32,Tractor Supply Co.,"Brentwood, TN ",11.40%,$14.08 ,100%,"2,252",3.30%
+32,33,O'Reilly Auto Parts,"Springfield, MO",7.80%,$13.93 ,96%,"5,929",3.00%
+33,34,AutoZone,"Memphis, TN ",11.00%,$13.78 ,86%,"6,118",1.90%
+34,35,Menards,"Eau Claire, WI",1.80%,$13.38 ,100%,329,0.30%
+35,36,Gap,"San Francisco, CA",-5.90%,$13.10 ,86%,"2,140",-0.30%
+36,37,Hy Vee,"West Des Moines, IA",3.50%,$12.44 ,100%,329,6.50%
+37,38,Dick's Sporting Goods,"Coraopolis, PA",2.10%,$12.28 ,100%,831,-2.00%
+38,39,Dell Technologies,"Round Rock, TX",-20.30%,$12.02 ,100%,  N/A  ,N/A
+39,40,Health Mart Systems,"San Francisco, CA",2.40%,$11.90 ,100%,"4,734",-0.60%
+40,41,Wegmans Food Market,"Rochester, NY",5.80%,$11.88 ,100%,110,3.80%
+41,42,Alimentation Couche-Tard,"Tempe, AZ",5.30%,$11.10 ,78%,"7,019",0.10%
+42,43,Sherwin-Williams,"Cleveland, OH",12.80%,$11.02 ,89%,"4,291",1.60%
+43,44,Giant Eagle,"O'Hara Township, PA",2.10%,$10.65 ,100%,484,1.70%
+44,45,Wayfair,"Boston, MA",-7.00%,$10.46 ,86%,  N/A  ,N/A
+45,46,Ulta Beauty,"Bolingbrook, IL",18.30%,$10.21 ,100%,"1,355",3.60%
+46,47,Chewy.com,"Boston, MA",13.60%,$10.10 ,100%,  N/A  ,N/A
+47,48,WinCo Foods,"Boise, ID",6.20%,$9.85 ,100%,136,1.50%
+48,49,Qurate Retail,"Englewood, CO",-12.70%,$9.58 ,81%,  N/A  ,N/A
+49,50,Good Neighbor Pharmacy,"Chesterbrook, PA",2.10%,$8.84 ,100%,"2,350",-0.40%
+50,51,Burlington,"Burlington, NJ",-6.70%,$8.64 ,99%,914,10.50%
+51,52,Williams-Sonoma,"San Francisco, CA",5.00%,$8.41 ,98%,496,-2.90%
+52,53,Amway,"Ada Township, MI",-9.00%,$8.10 ,100%,  N/A  ,N/A
+53,54,Army and Air Force Exchange Service,Dallas TX ,2.10%,$7.88 ,100%,896,0.00%
+54,55,PetSmart,"Phoenix, AZ",2.10%,$7.58 ,95%,"1,574",0.50%
+55,56,Signet Jewelers,"Akron, OH",7.70%,$7.50 ,90%,"2,351",4.90%
+56,57,Chedraui,"Los Angeles, CA",137.30%,$7.45 ,59%,376,205.70%
+57,58,Northeast Grocery,"Schenectady, NY",N/A,$7.20 ,100%,277,N/A
+58,59,J.C. Penney Company,"Plano, TX",-9.00%,$7.12 ,99%,661,-1.20%
+59,60,Bass Pro,"Springfield, MO",1.80%,$7.05 ,93%,154,0.00%
+60,61,Camping World,"Lincolnshire, IL",0.80%,$6.98 ,100%,237,4.90%
+61,62,Bath & Body Works,"Reynoldsburg,OH",-4.90%,$6.97 ,92%,"1,693",2.50%
+62,63,Southeastern Grocers,"Jacksonville, FL",2.60%,$6.94 ,100%,424,1.20%
+63,64,Sephora (LVMH),"San Francisco, CA",15.00%,$6.92 ,48%,531,4.50%
+64,65,Dillard's,"Little Rock, AR",7.30%,$6.84 ,100%,250,0.00%
+65,66,Hobby Lobby Stores,"Oklahoma City, OK",9.10%,$6.84 ,100%,"1,020",1.90%
+66,67,AVB Brandsource,"Tustin, CA",3.00%,$6.69 ,98%,"3,145",0.20%
+67,68,Staples,"Framingham, MA",-3.70%,$6.44 ,81%,"1,005",-3.60%
+68,69,Sprouts Farmers Market,"Phoenix, AZ",5.00%,$6.40 ,100%,386,3.20%
+69,70,Academy Sports,"Katy, TX",-5.60%,$6.40 ,100%,268,3.50%
+70,71,Discount Tire,"Scottsdale, AZ",5.40%,$6.23 ,100%,"1,113",2.40%
+71,72,Foot Locker,"New York, NY",-4.50%,$6.14 ,78%,"1,539",-8.80%
+72,73,True Value Co.,"Chicago, IL",5.00%,$5.92 ,100%,"4,241",0.00%
+73,74,Petco,"San Diego, CA",4.00%,$5.88 ,97%,"1,432",-0.20%
+74,75,Ikea North American Svcs,"Conshohocken, PA",2.00%,$5.87 ,13%,52,0.00%
+75,76,Victoria's Secret,"Reynoldsburg,OH",-8.10%,$5.64 ,91%,812,0.50%
+76,77,Raley's Supermarkets,"West Sacramento, CA",73.50%,$5.53 ,100%,237,94.30%
+77,78,Big Lots,"Columbus, OH",-11.10%,$5.47 ,100%,"1,425",-0.40%
+78,79,Piggly Wiggly,"Keene, NH",6.40%,$5.35 ,100%,407,0.00%
+79,80,Harbor Freight Tools,"Calabasas, CA",13.10%,$5.35 ,100%,"1,300",7.40%
+80,81,Michaels Stores,"Irving, TX",5.00%,$5.26 ,90%,"1,142",0.20%
+81,82,Office Depot,"Boca Raton, FL",-7.80%,$5.11 ,69%,980,-5.60%
+82,83,My Demoulas,"Tewksbury, MA",4.50%,$4.95 ,100%,91,1.10%
+83,84,Total Wine & More,"Bethesda, MD",14.60%,$4.94 ,100%,245,8.40%
+84,85,Hudson's Bay,"New York, NY",7.70%,$4.86 ,50%,142,0.70%
+85,86,Stater Bros Holdings,"San Bernardino, CA",1.70%,$4.85 ,100%,172,0.00%
+86,87,Advance Auto,"Raleigh, NC",1.40%,$4.80 ,99%,"4,600",2.90%
+87,88,Casey's General Store,"Ankeny, IA",10.00%,$4.78 ,100%,"2,480",1.10%
+88,89,Weis Markets,"Sunbury, PA",11.20%,$4.70 ,100%,197,0.50%
+89,90,Exxon Mobil Corporation,"Irving, TX",1.40%,$4.65 ,94%,"3,256",-0.50%
+90,91,Neiman Marcus,"Dallas, TX",4.20%,$4.61 ,88%,45,-2.20%
+91,92,Ingles,"Black Mountain, NC",8.00%,$4.59 ,100%,198,0.00%
+92,93,Lululemon,"Sumner, WA",12.80%,$4.58 ,79%,350,8.00%
+93,94,Save-A-Lot,"St. Ann, MO",4.00%,$4.43 ,100%,863,0.00%
+94,95,Defense Commissary Agency,"Fort Lee, VA",2.30%,$4.40 ,100%,236,0.00%
+95,96,Tapestry,"New York, NY",2.40%,$4.39 ,66%,570,-1.90%
+96,97,American Eagle,"Pittsburgh, PA",-1.60%,$4.27 ,77%,954,1.40%
+97,98,Shell Oil Company,"Houston, TX",4.40%,$4.17 ,87%,"4,286",3.10%
+98,99,Schnucks,"St. Louis, MO",13.50%,$4.02 ,100%,113,1.80%
+99,100,Barnes and Noble Booksellers,"New York, NY",2.50%,$3.75 ,100%,616,1.00%
